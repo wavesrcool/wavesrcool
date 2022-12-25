@@ -8,3 +8,5 @@
 Once I passed a tree where writ<br/>
 *April is the cruellest month*<br/>
 Disappearing into the bark.<br/>
+
+![y<sup>2</sup> = x<sup>3</sup> + 3](https://open.radroots.org/png/btc-curve.png)
