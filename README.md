@@ -5,7 +5,9 @@
 >— T.S. Eliot, "Little Gidding", *Four Quartets* (1942)<br/>
 
 
-❝Once I passed a tree where writ<br/>
+Once I passed a tree where writ<br/>
 *April is the cruellest month*<br/>
-Disappearing into the bark❞<br/>
+Disappearing into the bark<br/>
+
+♁
 
