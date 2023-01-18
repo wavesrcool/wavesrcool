@@ -1,9 +1,9 @@
->"Around the world<br/>
+>Around the world<br/>
 >in the rainbow's hue<br/>
 >roots stir and sleep<br/>
 >with a mission to do<br/>
 
->A cornucopia here—<br/>
+>A cornucopia above—<br/>
 >the world, to bestow<br/>
 >all that we love,<br/>
 >all that we know<br/>
@@ -16,6 +16,6 @@
 >The common thread<br/>
 >woven up and around<br/>
 >is to give and receieve<br/>
->to bind and be bound."<br/>
+>to bind and be bound<br/>
 
 
