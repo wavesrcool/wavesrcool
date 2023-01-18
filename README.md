@@ -17,5 +17,5 @@
 >woven up and around<br/>
 >is to give and receieve<br/>
 >to bind and be bound."<br/>
->—♁
+
 
